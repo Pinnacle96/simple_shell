@@ -16,5 +16,5 @@ int main(int ac, char **av, char **env)
     printf("Environ address: %p \n", environ);
     printf("Env parameter address: %p \n", env);
 
-    return (0);
+    return 0;
 }
